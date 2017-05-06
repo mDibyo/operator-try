@@ -1,0 +1,12 @@
+{
+    "name": "operator-try",
+    "description": "Operator Try",
+    "version": "0.0.3",
+    "publish": {
+        "registry": "http://registry.mezuri.org",
+        "remote": {
+            "url": "git@github.com:mDibyo/operator-try.git",
+            "name": "github"
+        }
+    }
+}
